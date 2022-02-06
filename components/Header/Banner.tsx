@@ -64,7 +64,7 @@ const Banner = () => {
             fontWeight={600}
             textAlign={"center"}
           >
-            Unlimited movies, TV shows, and more.
+            Unlimited Doujins, TV shows, and more.
           </Typography>
           <Typography
             variant="h6"
